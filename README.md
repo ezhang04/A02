@@ -5,7 +5,9 @@
 
 **What is Git and Github**
 > Git is a version control system (VCS) that allows the programmer to track and organize any changes or edits made to their code. Git is very useful tool for developers as it gives them the ability to create a branch out form their main file. What this means is that developers can change or edit their code without affecting the original file  
+
 > Github.com is the website develpoers use to showcase their programs. Developers cannot edit or change code on the website but there are options to export the code or file into Github Desktop. There are also options to add collaboators or host progams on Githubs server such as Github Pages. [Check out my Website which is hosted on github pages](https://ericzhang.us/)  
+
 > Github Desktop is a different. Github Desktop find and clone a repository you own. After cloning the repository you are giving the option to open up the file in a IDE of your choosing. From there you cannot edit the code in Github Desktop but in you IDE you are able to edit, make changes, whatever. After being making changes and being content you can commit the changes and push them to github through the desktop app. In fact I am using VS Code (VERY poular IDE for windows users, would 100% recommend), Webstorm, and Github Desktop to create this ReadME.md
 
 # Tutorials
