@@ -1,9 +1,9 @@
 # Important Information 
 
-** What is Jetbrain Webstorm **
+**What is Jetbrain Webstorm**
 > Jetbrain's Webstorm is a popular IDE especially for web developers. It includes many languages that are required for building or developing a successful website. Webstorm automatically comes equipped with supported languages such as JavaScript, TypeScript, React, Vue, Angular, Node.js, HTML, and cascading style sheets (CSS). Jetbrain also offers many other IDEs for various languages but Webstorm is primarly used for website development
 
-** What is Git and Github **
+**What is Git and Github**
 > Git is a version control system (VCS) that allows the programmer to track and organize any changes or edits made to their code. Git is very useful tool for developers as it gives them the ability to create a branch out form their main file. What this means is that developers can change or edit their code without affecting the original file 
 > Github.com is the website develpoers use to showcase their programs. Developers cannot edit or change code on the website but there are options to export the code or file into Github Desktop. There are also options to add collaboators or host progams on Githubs server such as Github Pages. [Check out my Website which is hosted on github pages](https://ericzhang.us/)
 > Github Desktop is a different. Github Desktop find and clone a repository you own. After cloning the repository you are giving the option to open up the file in a IDE of your choosing. From there you cannot edit the code in Github Desktop but in you IDE you are able to edit, make changes, whatever. After being making changes and being content you can commit the changes and push them to github through the desktop app. In fact I am using VS Code (VERY poular IDE for windows users, would 100% recommend), Webstorm, and Github Desktop to create this ReadME.md
@@ -39,7 +39,7 @@
 > For non-Window users check out [Install for Linux](https://www.jetbrains.com/help/webstorm/installation-guide.html#snap)
 
 ## Install Git
-> [Install Git Here] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+> [Install Git Here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 > Follow the link above to download Git [Install automatically](https://git-scm.com/download/win)
 
 ## Install Github
@@ -66,13 +66,13 @@
 : Github is a website that allows developers to connect and view other developer's work. Users can view and test code other programers wrote.
 - Merge
 : A merge is pulling changes into your code. If a developer made changes to you code they can push a merge request. You can accept those changes and merge their code into yours. You should ONLY do this if you trust the other party and tested their code yourself
-- == Merge Conflict ==
+- ==Merge Conflict==
 : A merge conflict is when Github doesn't know how to merge the new code with the old code. In Github;s own words "Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge" to resolve the conflict the user must manually fix those changes and correct all conflicts within the main branch and another branch
 - Push
 : Pushing changes means you "tell" Github to send a request to the user that you made changes and you believe it fixes a problem or adds functionality.
 - Pull
 : Pulling changes mean you accept a push request and marge the changes into the main branch. ONLY DO THIS IF YOU ARE SURE THE CHANGES ARE BENIFICAL. Test over na dover again every case before accepting changes.
-- == Remote ==
+- ==Remote==
 : A remote is a device to control your TV. KIDDING! :rofl: Remote repository is just a verison of the repository stored somewhere. Github's offical definition is: "Remote repositories are versions of your project that are hosted on the Internet or network somewhere"
 - Repository
 : A repository is a folder where your code is stored. It is mainly used to refer to folders on Github.
