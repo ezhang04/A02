@@ -11,7 +11,7 @@
 # Tutorials
 
 ## Install Webstorm 
-> [Install Webstorm Here] (https://www.jetbrains.com/help/webstorm/installation-guide.html#standalone)
+> [Install Webstorm Here](https://www.jetbrains.com/help/webstorm/installation-guide.html#standalone)
 > Follow the link above the learn to install Webstorm. Keep in mind you will have to install Jetbrain's toolkit [Install toolkit](https://www.jetbrains.com/toolbox/app/)
 
 ### First Method - Use the Toolbox App
