@@ -68,13 +68,13 @@
 : Github is a website that allows developers to connect and view other developer's work. Users can view and test code other programers wrote.
 - Merge
 : A merge is pulling changes into your code. If a developer made changes to you code they can push a merge request. You can accept those changes and merge their code into yours. You should ONLY do this if you trust the other party and tested their code yourself
-- ==Merge Conflict==
+- *Merge Conflict*
 : A merge conflict is when Github doesn't know how to merge the new code with the old code. In Github;s own words "Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge" to resolve the conflict the user must manually fix those changes and correct all conflicts within the main branch and another branch
 - Push
 : Pushing changes means you "tell" Github to send a request to the user that you made changes and you believe it fixes a problem or adds functionality.
 - Pull
 : Pulling changes mean you accept a push request and marge the changes into the main branch. ONLY DO THIS IF YOU ARE SURE THE CHANGES ARE BENIFICAL. Test over na dover again every case before accepting changes.
-- ==Remote==
+- *Remote*
 : A remote is a device to control your TV. KIDDING! :rofl: Remote repository is just a verison of the repository stored somewhere. Github's offical definition is: "Remote repositories are versions of your project that are hosted on the Internet or network somewhere"
 - Repository
 : A repository is a folder where your code is stored. It is mainly used to refer to folders on Github.
