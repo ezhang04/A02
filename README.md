@@ -4,8 +4,8 @@
 > Jetbrain's Webstorm is a popular IDE especially for web developers. It includes many languages that are required for building or developing a successful website. Webstorm automatically comes equipped with supported languages such as JavaScript, TypeScript, React, Vue, Angular, Node.js, HTML, and cascading style sheets (CSS). Jetbrain also offers many other IDEs for various languages but Webstorm is primarly used for website development
 
 **What is Git and Github**
-> Git is a version control system (VCS) that allows the programmer to track and organize any changes or edits made to their code. Git is very useful tool for developers as it gives them the ability to create a branch out form their main file. What this means is that developers can change or edit their code without affecting the original file 
-> Github.com is the website develpoers use to showcase their programs. Developers cannot edit or change code on the website but there are options to export the code or file into Github Desktop. There are also options to add collaboators or host progams on Githubs server such as Github Pages. [Check out my Website which is hosted on github pages](https://ericzhang.us/)
+> Git is a version control system (VCS) that allows the programmer to track and organize any changes or edits made to their code. Git is very useful tool for developers as it gives them the ability to create a branch out form their main file. What this means is that developers can change or edit their code without affecting the original file  
+> Github.com is the website develpoers use to showcase their programs. Developers cannot edit or change code on the website but there are options to export the code or file into Github Desktop. There are also options to add collaboators or host progams on Githubs server such as Github Pages. [Check out my Website which is hosted on github pages](https://ericzhang.us/)  
 > Github Desktop is a different. Github Desktop find and clone a repository you own. After cloning the repository you are giving the option to open up the file in a IDE of your choosing. From there you cannot edit the code in Github Desktop but in you IDE you are able to edit, make changes, whatever. After being making changes and being content you can commit the changes and push them to github through the desktop app. In fact I am using VS Code (VERY poular IDE for windows users, would 100% recommend), Webstorm, and Github Desktop to create this ReadME.md
 
 # Tutorials
@@ -45,7 +45,7 @@
 ## Install Github
 > Github itself is a website [Github.com](https://github.com/)
 > Github desktop is typically what developers look for
-> [Install Github Desktop] (https://docs.github.com/en/desktop/installing-and-configuring-github-desktopinstalling-and-authenticating-to-github-desktop/installing-github-desktop)
+> [Install Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktopinstalling-and-authenticating-to-github-desktop/installing-github-desktop)
 1. Visit the download page for [GitHub Desktop](https://desktop.github.com/)
 2. Click Download for Windows
 3. In your computer's Downloads folder, double-click the GitHub Desktop setup file
